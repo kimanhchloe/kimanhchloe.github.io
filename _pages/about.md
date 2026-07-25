@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Kim-Anh Le"
 author_profile: false
 redirect_from: 
   - /about/
