@@ -1,7 +1,7 @@
 ---
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 ---
 
 You can view or download my CV below.
