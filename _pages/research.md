@@ -13,6 +13,7 @@ My research lies at the intersection of **Mathematical Finance**, **Stochastic O
 *Joint work with
 [Dr. Van-Quy Nguyen](https://sites.google.com/view/vanquy93/home?authuser=0).*
 
+
 | | |
 |:---|:---|
 | **Research Area** | Mathematical Economics · General Equilibrium Theory · Differential Topology |
