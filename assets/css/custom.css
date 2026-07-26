@@ -748,3 +748,92 @@ details.project code{
     padding:4px 10px;
     border-radius:20px;
 }
+/* ================================
+   Research Page
+================================ */
+
+.project{
+    margin:25px 0;
+    border:1px solid #ddd;
+    border-radius:14px;
+    background:#fafafa;
+    padding:0;
+    overflow:hidden;
+}
+
+.project summary{
+    cursor:pointer;
+    list-style:none;
+    padding:22px 28px;
+}
+
+.project summary::-webkit-details-marker{
+    display:none;
+}
+
+.project summary::before{
+    content:"▶";
+    color:#1F4E79;
+    margin-right:12px;
+    font-size:14px;
+}
+
+.project[open] summary::before{
+    content:"▼";
+}
+
+.project-title{
+    font-size:1.25rem;
+    font-weight:700;
+    color:#1F4E79;
+    margin-bottom:8px;
+}
+
+.project-meta{
+    color:#666;
+    font-size:0.95rem;
+}
+
+.project[open] h3,
+.project[open] p,
+.project[open] ul{
+    padding-left:28px;
+    padding-right:28px;
+}
+
+.project[open] h3{
+    margin-top:18px;
+    color:#1F4E79;
+}
+
+.project[open] p:last-child{
+    padding-bottom:24px;
+}
+
+.status{
+    margin-left:15px;
+    padding:5px 12px;
+    border-radius:20px;
+    font-size:13px;
+    font-weight:600;
+}
+
+.progress{
+    background:#FFF4CC;
+    color:#9A6700;
+}
+
+.paper{
+    background:#DDF5E5;
+    color:#1A7F37;
+}
+
+.keyword{
+    display:inline-block;
+    margin:4px;
+    padding:5px 12px;
+    background:#EEF5FB;
+    color:#1F4E79;
+    border-radius:20px;
+    font-size:.85rem;
+}
