@@ -42,8 +42,6 @@ Specifically, I apply stochastic calculus and nonlinear dynamic analysis to inve
 
 Feel free to reach out if you are interested in discussing research, mathematical finance, or potential collaborations.
 
-<h2>Connect</h2>
-
 <div style="font-size:32px; margin-top:15px;">
 
 <a href="mailto:anhlkchloe@gmail.com" target="_blank" style="margin-right:20px;">
