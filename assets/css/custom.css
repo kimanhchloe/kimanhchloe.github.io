@@ -607,3 +607,50 @@ a {
 a:hover {
   color: #1B4F72;
 }
+/* Main content */
+.page {
+    max-width: 1100px;
+}
+
+/* Headings */
+h1{
+    font-size: 2.8rem;
+    font-weight:700;
+}
+
+h2{
+    margin-top:3rem;
+    color:#6C63FF;
+}
+
+h3{
+    margin-top:1.5rem;
+}
+
+/* Paragraph */
+p{
+    line-height:1.8;
+    font-size:18px;
+}
+
+/* Lists */
+li{
+    margin-bottom:10px;
+}
+
+/* Links */
+a{
+    color:#6C63FF;
+    text-decoration:none;
+}
+
+a:hover{
+    color:#9B8CFF;
+}
+
+/* Horizontal line */
+hr{
+    margin:40px 0;
+    border:none;
+    border-top:1px solid #444;
+}

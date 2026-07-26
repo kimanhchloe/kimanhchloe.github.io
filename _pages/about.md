@@ -42,14 +42,24 @@ Specifically, I apply stochastic calculus and nonlinear dynamic analysis to inve
 
 Feel free to reach out if you are interested in discussing research, mathematical finance, or potential collaborations.
 
-📧 **Email**  
-anhlkchloe@gmail.com
+<h2>Connect</h2>
 
-💻 **GitHub**  
-https://github.com/kimanhchloe
+<div style="font-size:32px; margin-top:15px;">
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/kim-anh-le-59930422a/
+<a href="mailto:anhlkchloe@gmail.com" target="_blank" style="margin-right:20px;">
+<i class="fas fa-envelope"></i>
+</a>
 
-🆔 **ORCID**  
-https://orcid.org/0009-0000-4038-3753
+<a href="https://github.com/kimanhchloe" target="_blank" style="margin-right:20px;">
+<i class="fab fa-github"></i>
+</a>
+
+<a href="https://www.linkedin.com/in/kim-anh-le-59930422a/" target="_blank" style="margin-right:20px;">
+<i class="fab fa-linkedin"></i>
+</a>
+
+<a href="https://orcid.org/0009-0000-4038-3753" target="_blank">
+<i class="ai ai-orcid"></i>
+</a>
+
+</div>
