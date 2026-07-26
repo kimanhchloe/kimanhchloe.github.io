@@ -4,7 +4,7 @@ main:
     url: /about/
 
   - title: "CV"
-    url: /files/CV
+    url: /files/CV.pdf
 
   - title: "Research Projects"
     url: /research/
