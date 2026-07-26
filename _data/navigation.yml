@@ -6,14 +6,9 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Research"
+  - title: "Research Projects"
     url: /publications/
-
-  - title: "Projects"
-    url: /portfolio/
 
   - title: "Notes"
     url: /notes/
 
-  - title: "Contact"
-    url: /contact/

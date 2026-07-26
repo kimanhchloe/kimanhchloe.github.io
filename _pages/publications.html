@@ -1,36 +1,66 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
+layout: single
+title: "Research Projects"
+permalink: /research/
+author_profile: false
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+# Research Projects
 
-{% include base_path %}
+My research interests lie in **mathematical economics, mathematical finance, stochastic control, and general equilibrium theory**. My work combines rigorous mathematical analysis with economic modeling to investigate dynamic optimization, equilibrium existence, and optimal decision-making under uncertainty.
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+---
 
+## Existence and Regularity of Competitive Equilibria in Economies with Externalities
 
+**Research Area:** Mathematical Economics · General Equilibrium Theory · Differential Topology
 
+This project develops a rigorous general equilibrium framework for pure exchange economies with non-separable consumption and wealth externalities. The research investigates the existence, regularity, and local stability of competitive equilibria using modern techniques from differential topology.
+
+### Main Contributions
+
+- Constructed a comprehensive general equilibrium framework for pure exchange economies integrating non-separable consumption and wealth externalities across multi-consumer and multi-commodity settings.
+- Formulated a **$\mathcal{C}^{3}$** differential-topological framework and established the global existence of competitive equilibria through a multidimensional continuous homotopy deformation system \(H(\xi,t)=0\).
+- Applied the **Transversality Theorem** and **Regular Value Theorem** to prove generic regularity, showing that regular economies form an open subset with full Lebesgue measure. Consequently, the equilibrium set \(F_e^{-1}(0)\) is finite (with odd cardinality), and local equilibria depend differentiably (\(\mathcal{C}^{1}\)) on economic parameters.
+
+**Keywords**
+
+General Equilibrium · Differential Topology · Homotopy Method · Externalities
+
+---
+
+## Investment Strategies with Habit Formation under Mispricing
+
+**Research Area:** Mathematical Finance · Stochastic Control · Portfolio Optimization
+
+**Status:** Personal Research Project (October 2025 – Present)
+
+This project studies optimal consumption and portfolio allocation in financial markets with habit formation and asset mispricing. The objective is to derive optimal feedback strategies and establish rigorous mathematical verification of the associated stochastic control problem.
+
+### Main Contributions
+
+- Derived exact closed-form feedback control strategies for optimal consumption and investment under both CRRA and logarithmic utility functions. The optimal portfolio is explicitly decomposed into **myopic demand**, **mispricing hedging demand**, and **inflation hedging demand**.
+- Proved the **Verification Theorem** by applying the generalized multidimensional Itô formula for jump-diffusion processes and establishing the uniform integrability of the local martingale component, thereby rigorously validating that the candidate solution coincides with the unique value function.
+- Established sufficient conditions for global uniqueness by constructing a strictly negative-definite Hessian matrix, proving that the candidate strategy is the unique global maximizer of the Hamilton–Jacobi–Bellman (HJB) operator.
+
+**Keywords**
+
+Mathematical Finance · Stochastic Control · Portfolio Optimization · HJB Equation · Habit Formation · Mispricing
+
+---
+
+## Overlapping Generations Model with Wariness
+
+**Research Area:** Mathematical Economics · Dynamic Systems · Economic Growth
+
+This project develops a two-period overlapping generations (OLG) model incorporating lifecycle wariness through a non-smooth max-min utility specification. The research analyzes how behavioral preferences influence long-run capital accumulation and equilibrium dynamics.
+
+### Main Contributions
+
+- Formulated and solved a two-period household utility maximization problem with a non-smooth max-min objective function capturing lifecycle wariness, deriving a nonlinear piecewise capital law of motion by analyzing three endogenous return-driven regimes.
+- Constructed a global phase diagram for a logarithmic Cobb–Douglas economy using the qualitative theory of dynamical systems, linking individual behavioral regimes to aggregate capital dynamics and establishing steady-state existence, uniqueness, and finite-threshold projection.
+- Investigated dynamic efficiency by deriving precise parameter conditions for decentralized Golden Rule implementation and extended the framework to a Romer-style endogenous growth model, demonstrating asymptotic growth saturation and finite-threshold stabilization.
+
+**Keywords**
+
+Overlapping Generations · Dynamic Optimization · Dynamical Systems · Economic Growth · Mathematical Economics
