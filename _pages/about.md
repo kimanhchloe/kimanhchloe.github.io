@@ -15,7 +15,6 @@ redirect_from:
 
 <div style="flex:1;">
 <h1 style="margin-top:0; margin-bottom:15px;">
-About Me
 </h1>
 
 <p>
