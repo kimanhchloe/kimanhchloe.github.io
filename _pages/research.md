@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: false
 ---
 
-# Research
-
 My research lies at the intersection of **Mathematical Economics**, **Mathematical Finance**, **Stochastic Optimal Control**, and **General Equilibrium Theory**. I am particularly interested in applying rigorous mathematical analysis—including differential topology, stochastic calculus, and dynamical systems—to investigate equilibrium existence, portfolio optimization, and long-run economic dynamics.
 
 ---

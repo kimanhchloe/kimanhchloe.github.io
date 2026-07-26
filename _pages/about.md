@@ -35,5 +35,21 @@ Specifically, I apply stochastic calculus and nonlinear dynamic analysis to inve
 - Credit Risk Modeling
 - Stochastic Optimal Control
 - General Equilibrium Theory
-- Asset Pricing
 
+---
+
+## Connect
+
+Feel free to reach out if you are interested in discussing research, mathematical finance, or potential collaborations.
+
+📧 **Email**  
+anhlkchloe@gmail.com
+
+💻 **GitHub**  
+https://github.com/kimanhchloe
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/kim-anh-le-59930422a/
+
+🆔 **ORCID**  
+https://orcid.org/0009-0000-4038-3753
