@@ -685,3 +685,66 @@ code{
     padding:4px 10px;
     font-size:0.9em;
 }
+/* ===========================
+   Research Accordion
+=========================== */
+
+details.project{
+    margin:20px 0;
+    border:1px solid #dcdcdc;
+    border-radius:12px;
+    padding:18px 22px;
+    background:#fafafa;
+    transition:all .25s ease;
+}
+
+details.project:hover{
+    box-shadow:0 6px 18px rgba(0,0,0,.08);
+}
+
+summary{
+    cursor:pointer;
+    list-style:none;
+    outline:none;
+}
+
+summary::-webkit-details-marker{
+    display:none;
+}
+
+summary::before{
+    content:"▶";
+    font-size:14px;
+    margin-right:12px;
+    color:#1F4E79;
+}
+
+details[open] summary::before{
+    content:"▼";
+}
+
+summary b{
+    font-size:1.15rem;
+    color:#1F4E79;
+}
+
+summary small{
+    color:#666;
+    line-height:1.8;
+}
+
+details.project h3{
+    margin-top:20px;
+    color:#1F4E79;
+}
+
+details.project ul{
+    margin-top:8px;
+}
+
+details.project code{
+    background:#eef5fb;
+    color:#1F4E79;
+    padding:4px 10px;
+    border-radius:20px;
+}
