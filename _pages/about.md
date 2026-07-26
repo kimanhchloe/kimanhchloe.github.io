@@ -21,8 +21,6 @@ redirect_from:
 My research follows two lines: structural general equilibrium theory and continuous-time asset pricing. Both are driven by the same goal: modeling complex economic dynamics under structural, behavioral, and informational frictions. I study these problems from rigorous mathematical perspectives, focusing on dynamic optimization, stochastic control, and equilibrium existence in systems with externalities and market imperfections.
 </p>
 
-</p>
-
 </div>
 
 </div>
