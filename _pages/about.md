@@ -6,30 +6,29 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="display:flex; align-items:flex-start; gap:40px; margin-top:20px;">
 
-<div style="display:flex; align-items:flex-start; gap:30px; flex-wrap:wrap;">
-
-<div style="flex:0 0 220px;">
-
+<div style="flex:0 0 230px;">
 <img src="/images/profile.jpeg"
-     alt="Kim-Anh Le"
-     style="width:220px; border-radius:12px;">
+     style="width:220px;border-radius:15px;">
+</div>
+
+<div style="flex:1;">
+<h1 style="margin-top:0; margin-bottom:15px;">
+About Me
+</h1>
+
+<p>
+As a research-focused graduate in Mathematical Economics, my research interests include stochastic optimal control, general equilibrium theory, and theoretical asset pricing under behavioral and structural frictions.
+</p>
+
+<p>
+Specifically, I apply stochastic calculus and nonlinear dynamic analysis to investigate continuous-time portfolio choice, dynamic equilibrium existence, and systemic risk.
+</p>
 
 </div>
 
-<div style="flex:1; min-width:300px;">
-
-## About Me
-
-As a research-focused graduate in mathematical economics, my primary research focuses on stochastic optimal control, general equilibrium theory, and theoretical asset pricing under behavioral and structural frictions.
-
-Specifically, I apply stochastic calculus and nonlinear dynamic analysis to model continuous-time portfolio choice, dynamic equilibrium existence, and systemic risk.
-
 </div>
-
-</div>
-
----
 
 ## Research Interests
 
