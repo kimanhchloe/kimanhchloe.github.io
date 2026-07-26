@@ -46,18 +46,20 @@ and dynamical systems.
 
 Existence and Regularity of Competitive Equilibria in Economies with Externalities
 
-</div>
-
 <div class="project-meta">
 
+<div>
 Joint work with
 <a href="https://sites.google.com/view/vanquy93/home?authuser=0" target="_blank">
 Dr. Van-Quy Nguyen
 </a>
+</div>
 
+<div style="margin-top:6px;">
 <span class="status progress">
 Work in Progress
 </span>
+</div>
 
 </div>
 
@@ -118,11 +120,6 @@ Investment Strategies with Habit Formation under Mispricing
 </div>
 
 <div class="project-meta">
-
-Joint work with
-<a href="https://sites.google.com/view/vanquy93/home?authuser=0" target="_blank">
-Dr. Van-Quy Nguyen
-</a>
 
 <span class="status progress">
 Work in Progress
@@ -192,18 +189,20 @@ Established global uniqueness through a strictly negative-definite Hessian matri
 
 Overlapping Generations Model with Wariness
 
-</div>
-
 <div class="project-meta">
 
+<div>
 Joint work with
 <a href="https://sites.google.com/view/vanquy93/home?authuser=0" target="_blank">
 Dr. Van-Quy Nguyen
 </a>
+</div>
 
-<span class="status paper">
-Working Paper
+<div style="margin-top:6px;">
+<span class="status progress">
+Work in Progress
 </span>
+</div>
 
 </div>
 
