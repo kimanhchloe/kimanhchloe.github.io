@@ -43,8 +43,7 @@ Existence and Regularity of Competitive Equilibria in Economies with Externaliti
 <div class="project-meta">
 
 <div>
-<strong>Joint work with</strong><br>
-
+Joint work with
 <a href="https://sites.google.com/view/vanquy93/home?authuser=0" target="_blank">
 Dr. Van-Quy Nguyen
 </a>
@@ -115,14 +114,6 @@ Investment Strategies with Habit Formation under Mispricing
 </div>
 
 <div class="project-meta">
-
-<div>
-<strong>Joint work with</strong><br>
-
-<a href="https://sites.google.com/view/vanquy93/home?authuser=0" target="_blank">
-Dr. Van-Quy Nguyen
-</a>
-</div>
 
 <div style="margin-top:10px;">
 
@@ -199,8 +190,7 @@ Overlapping Generations Model with Wariness
 <div class="project-meta">
 
 <div>
-<strong>Joint work with</strong><br>
-
+Joint work with 
 <a href="https://sites.google.com/view/vanquy93/home?authuser=0" target="_blank">
 Dr. Van-Quy Nguyen
 </a>
