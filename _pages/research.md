@@ -19,46 +19,45 @@ and dynamical systems.
 <h2>Research Areas</h2>
 
 <p>
-
 <span class="keyword">Mathematical Finance</span>
-
 <span class="keyword">Stochastic Optimal Control</span>
-
 <span class="keyword">General Equilibrium Theory</span>
-
 <span class="keyword">Differential Topology</span>
-
 <span class="keyword">Economic Dynamics</span>
-
 </p>
 
 <hr>
 
 <h2>Current Research Projects</h2>
 
-<!-- ====================================================== -->
+<!-- ========================================================= -->
 
 <details class="project">
 
 <summary>
 
 <div class="project-title">
-
 Existence and Regularity of Competitive Equilibria in Economies with Externalities
+</div>
 
 <div class="project-meta">
 
 <div>
-Joint work with
+<strong>Joint work with</strong><br>
+
 <a href="https://sites.google.com/view/vanquy93/home?authuser=0" target="_blank">
 Dr. Van-Quy Nguyen
 </a>
 </div>
 
-<div style="margin-top:6px;">
+<div style="margin-top:10px;">
+
+<strong>Status</strong><br>
+
 <span class="status progress">
-Work in Progress
+🟡 Work in Progress
 </span>
+
 </div>
 
 </div>
@@ -68,9 +67,7 @@ Work in Progress
 <h3>Overview</h3>
 
 <p>
-
 This project develops a rigorous general equilibrium framework for pure exchange economies with non-separable consumption and wealth externalities. By combining differential topology with equilibrium analysis, it establishes the global existence and generic regularity of competitive equilibria.
-
 </p>
 
 <h3>Highlights</h3>
@@ -86,7 +83,7 @@ Established global equilibrium existence through a multidimensional homotopy def
 </li>
 
 <li>
-Applied the <strong>Transversality Theorem</strong> and <strong>Regular Value Theorem</strong> to prove generic regularity, showing that regular economies form an open full-measure subset with finitely many differentiable equilibria.
+Applied the <strong>Transversality Theorem</strong> and the <strong>Regular Value Theorem</strong> to prove generic regularity, showing that regular economies form an open full-measure subset with finitely many differentiable equilibria.
 </li>
 
 </ul>
@@ -107,23 +104,35 @@ Applied the <strong>Transversality Theorem</strong> and <strong>Regular Value Th
 
 </details>
 
-<!-- ====================================================== -->
+<!-- ========================================================= -->
 
 <details class="project">
 
 <summary>
 
 <div class="project-title">
-
 Investment Strategies with Habit Formation under Mispricing
-
 </div>
 
 <div class="project-meta">
 
+<div>
+<strong>Joint work with</strong><br>
+
+<a href="https://sites.google.com/view/vanquy93/home?authuser=0" target="_blank">
+Dr. Van-Quy Nguyen
+</a>
+</div>
+
+<div style="margin-top:10px;">
+
+<strong>Status</strong><br>
+
 <span class="status progress">
-Work in Progress
+🟡 Work in Progress
 </span>
+
+</div>
 
 </div>
 
@@ -132,9 +141,7 @@ Work in Progress
 <h3>Overview</h3>
 
 <p>
-
 This project investigates continuous-time optimal consumption and portfolio allocation under habit formation and asset mispricing. The objective is to derive explicit feedback investment strategies and establish rigorous mathematical verification of their optimality.
-
 </p>
 
 <h3>Highlights</h3>
@@ -142,7 +149,7 @@ This project investigates continuous-time optimal consumption and portfolio allo
 <ul>
 
 <li>
-Derived exact closed-form feedback control strategies under both CRRA and logarithmic utility.
+Derived exact closed-form feedback control strategies under both CRRA and logarithmic utility functions.
 </li>
 
 <li>
@@ -179,29 +186,34 @@ Established global uniqueness through a strictly negative-definite Hessian matri
 
 </details>
 
-<!-- ====================================================== -->
+<!-- ========================================================= -->
 
 <details class="project">
 
 <summary>
 
 <div class="project-title">
-
 Overlapping Generations Model with Wariness
+</div>
 
 <div class="project-meta">
 
 <div>
-Joint work with
+<strong>Joint work with</strong><br>
+
 <a href="https://sites.google.com/view/vanquy93/home?authuser=0" target="_blank">
 Dr. Van-Quy Nguyen
 </a>
 </div>
 
-<div style="margin-top:6px;">
-<span class="status progress">
-Work in Progress
+<div style="margin-top:10px;">
+
+<strong>Status</strong><br>
+
+<span class="status paper">
+🟢 Working Paper
 </span>
+
 </div>
 
 </div>
@@ -211,9 +223,7 @@ Work in Progress
 <h3>Overview</h3>
 
 <p>
-
 This project develops a two-period overlapping generations model incorporating lifecycle wariness through a non-smooth max-min utility specification. The research investigates how behavioral preferences affect capital accumulation, dynamic efficiency, and long-run economic growth.
-
 </p>
 
 <h3>Highlights</h3>
