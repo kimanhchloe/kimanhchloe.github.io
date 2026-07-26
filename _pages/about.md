@@ -18,11 +18,9 @@ redirect_from:
 </h1>
 
 <p>
-As a research-focused graduate in Mathematical Economics, my research interests include stochastic optimal control, general equilibrium theory, and theoretical asset pricing under behavioral and structural frictions.
+My research follows two lines: structural general equilibrium theory and continuous-time asset pricing. Both are driven by the same goal: modeling complex economic dynamics under structural, behavioral, and informational frictions. I study these problems from rigorous mathematical perspectives, focusing on dynamic optimization, stochastic control, and equilibrium existence in systems with externalities and market imperfections.
 </p>
 
-<p>
-Specifically, I apply stochastic calculus and nonlinear dynamic analysis to investigate continuous-time portfolio choice, dynamic equilibrium existence, and systemic risk.
 </p>
 
 </div>
@@ -32,7 +30,6 @@ Specifically, I apply stochastic calculus and nonlinear dynamic analysis to inve
 ## Research Interests
 
 - Mathematical Finance
-- Credit Risk Modeling
 - Stochastic Optimal Control
 - General Equilibrium Theory
 

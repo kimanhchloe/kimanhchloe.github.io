@@ -5,12 +5,13 @@ permalink: /research/
 author_profile: false
 ---
 
-My research lies at the intersection of **Mathematical Economics**, **Mathematical Finance**, **Stochastic Optimal Control**, and **General Equilibrium Theory**. I am particularly interested in applying rigorous mathematical analysis—including differential topology, stochastic calculus, and dynamical systems—to investigate equilibrium existence, portfolio optimization, and long-run economic dynamics.
+My research lies at the intersection of **Mathematical Finance**, **Stochastic Optimal Control**, and **General Equilibrium Theory**. I am particularly interested in applying rigorous mathematical analysis—including differential topology, stochastic calculus, and dynamical systems—to investigate equilibrium existence, portfolio optimization, and long-run economic dynamics.
 
 ---
 
 ## Existence and Regularity of Competitive Equilibria in Economies with Externalities
-
+*Joint work with
+[Dr. Van-Quy Nguyen](https://sites.google.com/view/vanquy93/home?authuser=0).*
 | | |
 |:---|:---|
 | **Research Area** | Mathematical Economics · General Equilibrium Theory · Differential Topology |
@@ -62,6 +63,8 @@ This project investigates optimal consumption and portfolio allocation in financ
 ---
 
 ## Overlapping Generations Model with Wariness
+*Joint work with
+[Dr. Van-Quy Nguyen](https://sites.google.com/view/vanquy93/home?authuser=0).*
 
 | | |
 |:---|:---|
