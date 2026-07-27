@@ -1129,3 +1129,84 @@ details.project code{
     color:#4be0d7;
     font-size:.82rem;
 }
+/* ===========================
+   Research Project Cards
+=========================== */
+
+.project-card{
+    background:#232b2b;
+    border:1px solid rgba(255,255,255,.08);
+    border-radius:16px;
+    margin:28px 0;
+    overflow:hidden;
+    transition:.25s;
+    box-shadow:0 6px 18px rgba(0,0,0,.18);
+}
+
+.project-card:hover{
+    transform:translateY(-3px);
+    box-shadow:0 12px 28px rgba(0,0,0,.25);
+}
+
+.project-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:24px 28px;
+    cursor:pointer;
+}
+
+.project-left{
+    flex:1;
+}
+
+.project-title{
+    font-size:1.45rem;
+    font-weight:700;
+    line-height:1.4;
+    margin-bottom:8px;
+}
+
+.project-author{
+    font-size:.95rem;
+    color:#9aa5b1;
+    font-style:italic;
+}
+
+.project-author a{
+    color:#4fd1c5;
+    text-decoration:none;
+}
+
+.project-author a:hover{
+    text-decoration:underline;
+}
+
+.project-arrow{
+    font-size:26px;
+    transition:.3s;
+}
+
+.project-body{
+    display:none;
+    padding:0 28px 28px 28px;
+    border-top:1px solid rgba(255,255,255,.08);
+}
+
+.project-card.active .project-body{
+    display:block;
+}
+
+.project-card.active .project-arrow{
+    transform:rotate(180deg);
+}
+
+.keyword{
+    display:inline-block;
+    padding:6px 12px;
+    margin:5px;
+    border-radius:999px;
+    background:#334155;
+    color:white;
+    font-size:.85rem;
+}
