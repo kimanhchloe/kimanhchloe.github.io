@@ -1,38 +1,8 @@
----
-layout: single
-title: "Research"
-permalink: /research/
-author_profile: false
----
-
-<p>
-My research lies at the intersection of <strong>Mathematical Finance</strong>,
-<strong>Stochastic Optimal Control</strong>, and
-<strong>General Equilibrium Theory</strong>.
-I develop rigorous mathematical models for dynamic optimization and equilibrium
-analysis under uncertainty using stochastic calculus, differential topology,
-and dynamical systems.
-</p>
-
-<hr>
-
-<h2>Research Areas</h2>
-
-<p>
-<span class="keyword">Mathematical Finance</span>
-<span class="keyword">Stochastic Optimal Control</span>
-<span class="keyword">General Equilibrium Theory</span>
-<span class="keyword">Differential Topology</span>
-<span class="keyword">Economic Dynamics</span>
-</p>
-
-<hr>
-
-<h2>Current Research Projects</h2>
+<h2>Selected Research Projects</h2>
 
 <!-- ========================================================= -->
 
-<details class="project">
+<details class="project-card">
 
 <summary>
 
@@ -40,28 +10,16 @@ and dynamical systems.
 Existence and Regularity of Competitive Equilibria in Economies with Externalities
 </div>
 
-<div class="project-meta">
-
-<div>
-Joint work with
+<div class="project-author">
+with
 <a href="https://sites.google.com/view/vanquy93/home?authuser=0" target="_blank">
 Dr. Van-Quy Nguyen
 </a>
 </div>
 
-<div style="margin-top:10px;">
-
-<strong>Status</strong><br>
-
-<span class="status progress">
-🟡 Work in Progress
-</span>
-
-</div>
-
-</div>
-
 </summary>
+
+<div class="project-content">
 
 <h3>Overview</h3>
 
@@ -101,11 +59,13 @@ Applied the <strong>Transversality Theorem</strong> and the <strong>Regular Valu
 
 </p>
 
+</div>
+
 </details>
 
 <!-- ========================================================= -->
 
-<details class="project">
+<details class="project-card">
 
 <summary>
 
@@ -113,21 +73,16 @@ Applied the <strong>Transversality Theorem</strong> and the <strong>Regular Valu
 Investment Strategies with Habit Formation under Mispricing
 </div>
 
-<div class="project-meta">
-
-<div style="margin-top:10px;">
-
-<strong>Status</strong><br>
-
-<span class="status progress">
-🟡 Work in Progress
-</span>
-
-</div>
-
+<div class="project-author">
+with
+<a href="https://sites.google.com/view/vanquy93/home?authuser=0" target="_blank">
+Dr. Van-Quy Nguyen
+</a>
 </div>
 
 </summary>
+
+<div class="project-content">
 
 <h3>Overview</h3>
 
@@ -144,11 +99,17 @@ Derived exact closed-form feedback control strategies under both CRRA and logari
 </li>
 
 <li>
-Decomposed the optimal portfolio into <strong>myopic demand</strong>, <strong>mispricing hedging demand</strong>, and <strong>inflation hedging demand</strong>.
+Decomposed the optimal portfolio into
+<strong>myopic demand</strong>,
+<strong>mispricing hedging demand</strong>,
+and
+<strong>inflation hedging demand</strong>.
 </li>
 
 <li>
-Proved the <strong>Verification Theorem</strong> using generalized multidimensional Itô calculus for jump-diffusion processes.
+Proved the
+<strong>Verification Theorem</strong>
+using generalized multidimensional Itô calculus for jump-diffusion processes.
 </li>
 
 <li>
@@ -175,11 +136,13 @@ Established global uniqueness through a strictly negative-definite Hessian matri
 
 </p>
 
+</div>
+
 </details>
 
 <!-- ========================================================= -->
 
-<details class="project">
+<details class="project-card">
 
 <summary>
 
@@ -187,28 +150,16 @@ Established global uniqueness through a strictly negative-definite Hessian matri
 Overlapping Generations Model with Wariness
 </div>
 
-<div class="project-meta">
-
-<div>
-Joint work with 
+<div class="project-author">
+with
 <a href="https://sites.google.com/view/vanquy93/home?authuser=0" target="_blank">
 Dr. Van-Quy Nguyen
 </a>
 </div>
 
-<div style="margin-top:10px;">
-
-<strong>Status</strong><br>
-
-<span class="status paper">
-🟢 Working Paper
-</span>
-
-</div>
-
-</div>
-
 </summary>
+
+<div class="project-content">
 
 <h3>Overview</h3>
 
@@ -248,22 +199,6 @@ Derived parameter conditions for decentralized Golden Rule implementation and ex
 
 </p>
 
+</div>
+
 </details>
-
-<hr>
-
-<h2>Future Research</h2>
-
-<ul>
-
-<li>Continuous-time portfolio optimization under market frictions</li>
-
-<li>Dynamic general equilibrium with heterogeneous agents</li>
-
-<li>Stochastic differential games and mean-field interactions</li>
-
-<li>Behavioral asset pricing</li>
-
-<li>Applications of differential topology and stochastic analysis in economics and finance</li>
-
-</ul>

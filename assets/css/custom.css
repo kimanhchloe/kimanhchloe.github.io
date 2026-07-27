@@ -931,3 +931,126 @@ details.project code{
     font-size:.85rem;
     font-weight:500;
 }
+/* ---------- Research Cards ---------- */
+
+.project-card{
+
+    margin:24px 0;
+
+    border:1px solid #e7e7e7;
+
+    border-radius:14px;
+
+    background:white;
+
+    transition:.3s;
+
+    overflow:hidden;
+
+}
+
+.project-card:hover{
+
+    box-shadow:0 8px 24px rgba(0,0,0,.08);
+
+}
+
+.project-card summary{
+
+    list-style:none;
+
+    cursor:pointer;
+
+    padding:24px;
+
+}
+
+.project-card summary::-webkit-details-marker{
+
+    display:none;
+
+}
+
+.project-card summary::after{
+
+    content:"+";
+
+    float:right;
+
+    font-size:28px;
+
+    color:#777;
+
+    font-weight:300;
+
+}
+
+.project-card[open] summary::after{
+
+    content:"−";
+
+}
+
+.project-title{
+
+    font-size:1.35rem;
+
+    font-weight:700;
+
+    color:#163A5F;
+
+    line-height:1.4;
+
+}
+
+.project-author{
+
+    margin-top:8px;
+
+    font-size:.95rem;
+
+    font-style:italic;
+
+    color:#777;
+
+}
+
+.project-author a{
+
+    color:#1F4E79;
+
+    text-decoration:none;
+
+}
+
+.project-author a:hover{
+
+    text-decoration:underline;
+
+}
+
+.project-content{
+
+    padding:0 24px 24px;
+
+}
+
+.project-content h3{
+
+    margin-top:22px;
+
+    color:#163A5F;
+
+}
+
+.project-content ul{
+
+    margin-bottom:10px;
+
+}
+
+.project-content li{
+
+    margin-bottom:8px;
+
+}
