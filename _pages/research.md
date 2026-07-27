@@ -51,3 +51,19 @@ This project develops a rigorous general equilibrium framework for pure exchange
 </div>
 
 </details>
+
+<h3>Resources</h3>
+
+<p>
+
+<a href="/files/Existence and Regularity of Competitive Equilibria  in Economies with Externalities_slides.pdf" target="_blank">
+📑 Slides
+</a>
+
+&nbsp;&nbsp;|&nbsp;&nbsp;
+
+<a href="/files/Existence and Regularity of Competitive Equilibria  in Economies with Externalities.pdf" target="_blank">
+📄 Draft
+</a>
+
+</p>
