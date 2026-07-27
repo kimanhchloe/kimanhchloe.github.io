@@ -1054,3 +1054,78 @@ details.project code{
     margin-bottom:8px;
 
 }
+/* ==========================================
+   Research Cards
+========================================== */
+
+.project-card{
+    border:1px solid rgba(255,255,255,.08);
+    border-radius:14px;
+    margin:18px 0;
+    overflow:hidden;
+    background:rgba(255,255,255,.02);
+    transition:.25s;
+}
+
+.project-card:hover{
+    border-color:#39d0c7;
+    box-shadow:0 8px 25px rgba(0,0,0,.25);
+}
+
+.project-header{
+    padding:20px 24px;
+    cursor:pointer;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.project-left{
+    flex:1;
+}
+
+.project-title{
+    font-size:1.35rem;
+    font-weight:700;
+    margin-bottom:6px;
+}
+
+.project-author{
+    font-size:.95rem;
+    color:#9aa7b1;
+    font-style:italic;
+}
+
+.project-author a{
+    color:#39d0c7;
+    text-decoration:none;
+}
+
+.project-arrow{
+    font-size:28px;
+    transition:.3s;
+}
+
+.project-card.active .project-arrow{
+    transform:rotate(180deg);
+}
+
+.project-body{
+    display:none;
+    padding:0 24px 24px;
+    border-top:1px solid rgba(255,255,255,.08);
+}
+
+.project-card.active .project-body{
+    display:block;
+}
+
+.keyword{
+    display:inline-block;
+    padding:5px 12px;
+    margin:6px 6px 0 0;
+    border-radius:999px;
+    background:#15343a;
+    color:#4be0d7;
+    font-size:.82rem;
+}
