@@ -1,4 +1,9 @@
-<h2>Selected Research Projects</h2>
+---
+layout: single
+title: "Research"
+permalink: /research/
+author_profile: false
+---
 
 <!-- ========================================================= -->
 
