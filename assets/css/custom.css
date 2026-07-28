@@ -1338,3 +1338,57 @@ details.project code{
     text-decoration:none;
     margin-right:18px;
 }
+.project-card{
+    background:#1f2725;
+    border:1px solid #3b4543;
+    border-radius:18px;
+    margin:30px 0;
+    overflow:hidden;
+    box-shadow:0 8px 30px rgba(0,0,0,.18);
+    color:#f5f5f5;
+}
+
+.project-card summary{
+    padding:28px 34px;
+    cursor:pointer;
+}
+
+.project-title{
+    color:#ffffff;
+    font-size:2rem;
+    font-weight:700;
+}
+
+.project-author{
+    margin-top:10px;
+    color:#bfc8c6;
+    font-style:italic;
+}
+
+.project-author a{
+    color:#49e6d1;
+}
+
+.project-content{
+    padding:30px 34px;
+    border-top:1px solid #394442;
+}
+
+.project-content h3{
+    color:#ffffff;
+}
+
+.project-content p,
+.project-content li{
+    color:#e3e7e6;
+}
+
+.keyword{
+    background:#304643;
+    color:#74f1df;
+    border-radius:999px;
+    padding:4px 12px;
+    margin:4px;
+    display:inline-block;
+    font-size:.9rem;
+}
